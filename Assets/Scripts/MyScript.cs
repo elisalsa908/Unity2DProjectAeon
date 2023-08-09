@@ -12,7 +12,7 @@ using System.Data;
 using UnityEngine;
 using UnityEngine.UI;
 
-//a class is a container for variales and mothods
+//a class is a container for variales and methods
 //classes can inherit from each other (*Polymorphism*)
 // : to indidcate inheritance
 
